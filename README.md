@@ -1,6 +1,6 @@
 # JavaScriptStart
 
-Dedicado ao livro JavaScript START. Saiba mais em https://bit.ly/JavaScriptStart
+Dedicado ao livro <strong>JavaScript START</strong>. Saiba mais em https://bit.ly/JavaScriptStart
 
 Este repositório contém os códigos com 15 linhas ou mais. Os códigos menores são ilustrativos de conceitos e é muito importante que você os digite, pois ao digitar o aprendizado será potencializado. Na verdade, o ideal seria digitar todos os códigos, enfrentar todos os erros e aprender muito com eles. Se possível, faça assim. De qualquer modo, os códigos maiores estão disponíveis aqui.
 
